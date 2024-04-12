@@ -1,4 +1,4 @@
-import { Col, Container, Row, Button } from "react-bootstrap"
+import { Col, Container, Row, } from "react-bootstrap"
 
 const Intro = () => {
   return (
@@ -17,4 +17,4 @@ const Intro = () => {
   )
 }
 
-export default Intro
+export default Intro;
